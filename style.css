@@ -35,6 +35,17 @@ h1, h2, p, ul {
     text-align: left;
 }
 
+/* style.css */
+ul {
+    list-style: none;
+    padding-left: 0; /* Optional: Remove default padding */
+}
+
+li {
+    text-align: left;
+}
+
+
 #role-box {
     background-color: #ffffff;
     padding: 20px;
